@@ -1,5 +1,6 @@
 Hola soy Pablo Lara
 
+<<<<<<< HEAD
 Tengo 35 años
 
 Soy de Armero Tolima, Colombia
@@ -10,3 +11,5 @@ Soy soltero y paso la mayor parte del dia estudiando o trabajand.
 
 Hoy hablaremos de su vida y obra maestra
 
+=======
+>>>>>>> cabecera
