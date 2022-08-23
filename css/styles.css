@@ -8,6 +8,13 @@ body
     margin: 0;
     padding: 0;
 }
+#cabecera{
+    background-color: #33a;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
 
 #container
 {
